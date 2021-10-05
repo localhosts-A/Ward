@@ -4,22 +4,22 @@
 
 ---
 
-### About
+### 关于
 
-Ward is a simple and and minimalistic server monitoring tool. Ward supports adaptive design system. Also it supports dark theme.
-It shows only principal information and can be used, if you want to see nice looking dashboard instead looking on bunch of numbers and graphs.
-Ward works nice on all popular operating systems, because it uses [OSHI](https://github.com/oshi/oshi).
+Ward 是一个简单而轻便的服务器监控工具。Ward 支持自适应设计系统，并且支持深色主题。
+它只显示主要信息并且可以使用，如果你想看到漂亮的仪表板而不是查看一堆数字和图表。
+Ward 在所有流行的操作系统上都运行良好，因为它使用 [OSHI](https://github.com/oshi/oshi)
 
-**All features tested on:** `Windows` `Linux`
+**所有功能都经过测试:** `Windows` `Linux`
 
 <p align = "center">
     <img src = "https://steamuserimages-a.akamaihd.net/ugc/1601547572022736987/1D8D2E576D957DDB9CE34E13D5944AF841E8AAD8/" alt = "Preview Image" />
-    <h7 align = "center">Preview Image</h7>
+    <h7 align = "center">演示图片</h7>
 </p>
 
 ---
 
-### Features
+### 特点
 
 <table>
     <tr>
